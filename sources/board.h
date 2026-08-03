@@ -1,6 +1,6 @@
 #ifndef BOARD_H
 #define BOARD_H
-#define BOARD_SIZE 40
+
 
 typedef enum  {
     GO,Pettah,Community_Development_Fund,Maradana,Income_Tax,Colombo_Fort_Railway_Station,Bambalapitiya,National_Event_Card1,Wellawatte,Mount_Lavinia,Jail_visiting,Nugegoda,CEB,Maharagama,Kottawa,Kandy_Railway_Station,Negombo,Sri_Lanka_Insurance,Katunayake,Ja_Ea,Free_Parking,Kandy_City,National_Event_Card2,Peradeniya,Katugastota,Galle_Railway_Station,Galle_Fort,Unawatuna,National_Water_Supply_and_Drainage_Board,Hikkaduwa,Go_To_Jail,Jaffna_Town,Nallur,Ceylinco_Insurance,Trincomalee,Jaffna_Railway_Station,National_Event_Card3,Nuwara_Eliya,BOC,Galle_Face
@@ -17,16 +17,21 @@ typedef enum{
 }squarecolor;
 
 typedef struct {
-    squarename name;
+    char name[50];
     squaretype type;
+    squarecolor color;
     double purchase_price;
     double base_rent;
-    squarecolor color;
+    double house_price;
+    double hotel_price;
+    double mortgage_value;
+    int owner;
+    int house_count;
 
     
 } Square;
 
-extern Square board[BOARD_SIZE];
-void boardin(Square board[BOARD_SIZE]);
+extern Square board[40];
+void boardin(Square board[40]);
 
 #endif // BOARD_H
