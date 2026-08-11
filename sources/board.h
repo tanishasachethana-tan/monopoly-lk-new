@@ -18,6 +18,7 @@ typedef enum{
 
 typedef struct {
     char name[50];
+    squarename id;
     squaretype type;
     squarecolor color;
     double purchase_price;
@@ -27,11 +28,18 @@ typedef struct {
     double mortgage_value;
     int owner;
     int house_count;
+    int hotel_count;
+    int lock_status;
+    int closed;
+    int closed_rounds;
 
     
 } Square;
 
 extern Square board[40];
 void boardin(Square board[40]);
+
+extern int coastal_properties[];
+extern int coastal_count;
 
 #endif // BOARD_H

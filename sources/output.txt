@@ -1,0 +1,5089 @@
+==========================
+  MONOPOLY-LK Simulation
+==========================
+Player 1 : Aggresive Investor
+Player 2 : Conservative Banker
+Player 3 : Risk Taker
+Player 4 : Opportunistic Trader
+
+Each player begins with LKR 30,000
+
+Initial Roll
+------------
+Aggresive Investor    : 6
+Conservative Banker    : 7
+Risk Taker    : 4
+Opportunistic Trader    : 7
+
+Tie detected! Re-rolling...
+-------------------------------
+Conservative Banker re-rolled : 8
+
+Tie detected! Re-rolling...
+-------------------------------
+Opportunistic Trader re-rolled : 7
+
+Player Order
+------------
+1. Conservative Banker
+2. Opportunistic Trader
+3. Aggresive Investor
+4. Risk Taker
+
+
+**Game Starts!**
+
+DEBUG: 0 0 0 0
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=0
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 0 to Square 6(Bambalapitiya)
+
+Conservative Banker purchased Bambalapitiya for LKR 2500
+
+Remaining Balance: LKR 27500
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=0 | jail=0
+Opportunistic Trader rolled 9
+
+Opportunistic Trader moves from Square 0 to Square 9(Mount_Lavinia)
+
+Opportunistic Trader purchased Mount_Lavinia for LKR 3000
+
+Remaining Balance: LKR 27000
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 0 to Square 6(Bambalapitiya)
+
+Aggresive Investor landed on Bambalapitiya
+
+Rent paid : LKR 250
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 0 to Square 9(Mount_Lavinia)
+
+Risk Taker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+DEBUG: 0 0 0 0
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=0
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 6 to Square 15(Kandy_Railway_Station)
+
+Conservative Banker purchased Kandy_Railway_Station for LKR 1500
+
+Remaining Balance: LKR 26250
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=0 | jail=0
+Opportunistic Trader rolled 10
+
+Opportunistic Trader moves from Square 9 to Square 19(Ja_Ea)
+
+Opportunistic Trader purchased Ja_Ea for LKR 5000
+
+Remaining Balance: LKR 22220
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 9
+
+Aggresive Investor moves from Square 6 to Square 15(Kandy_Railway_Station)
+
+Aggresive Investor landed on Kandy_Railway_Station
+
+Rent paid : LKR 250
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 9 to Square 15(Kandy_Railway_Station)
+
+Risk Taker landed on Kandy_Railway_Station
+
+Rent paid : LKR 250
+
+DEBUG: 0 0 0 0
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=0
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 15 to Square 20(Free_Parking)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=0 | jail=0
+Opportunistic Trader rolled 8
+
+Opportunistic Trader moves from Square 19 to Square 27(Unawatuna)
+
+Opportunistic Trader purchased Unawatuna for LKR 6800
+
+Remaining Balance: LKR 15420
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 10
+
+Aggresive Investor moves from Square 15 to Square 25(Galle_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 15 to Square 22(National_Event_Card2)
+
+Risk Taker drew National Event Card 0!
+DEBUG: 0 0 0 0
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=0
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 20 to Square 27(Unawatuna)
+
+Conservative Banker landed on Unawatuna
+
+Rent paid : LKR 620
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=0 | jail=0
+Opportunistic Trader rolled 5
+
+Opportunistic Trader moves from Square 27 to Square 32(Nallur)
+
+Opportunistic Trader purchased Nallur for LKR 8300
+
+Remaining Balance: LKR 7740
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 25 to Square 31(Jaffna_Town)
+
+Aggresive Investor purchased Jaffna_Town for LKR 8000
+
+Remaining Balance: LKR 21500
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 12
+
+Risk Taker moves from Square 22 to Square 34(Trincomalee)
+
+Risk Taker purchased Trincomalee for LKR 8500
+
+Remaining Balance: LKR 21030
+
+DEBUG: 0 0 0 0
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=0
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 27 to Square 37(Nuwara_Eliya)
+
+Conservative Banker purchased Nuwara_Eliya for LKR 10000
+
+Remaining Balance: LKR 16130
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=0 | jail=0
+Opportunistic Trader rolled 8
+
+Opportunistic Trader passed GO
+Collected LKR 2000
+Current Balance: LKR 9740
+
+Opportunistic Trader moves from Square 32 to Square 0(GO)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 4
+
+Aggresive Investor moves from Square 31 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 34 to Square 36(National_Event_Card3)
+
+Risk Taker drew National Event Card 1!
+DEBUG: 0 0 0 1
+
+**Round 1
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=0
+Conservative Banker | rank=1 | bankrupt=0 | round=0
+Risk Taker | rank=4 | bankrupt=0 | round=0
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=0 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 18130
+
+Conservative Banker moves from Square 37 to Square 3(Maradana)
+
+Conservative Banker purchased Maradana for LKR 1800
+
+Remaining Balance: LKR 16330
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=0
+Opportunistic Trader rolled 7
+
+Opportunistic Trader moves from Square 0 to Square 7(National_Event_Card1)
+
+Opportunistic Trader drew National Event Card 2!
+Coastal property Negombo has been damaged!
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=0 | jail=0
+Aggresive Investor rolled 7
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 23500
+
+Aggresive Investor moves from Square 35 to Square 2(Community_Development_Fund)
+
+Aggresive Investor drew National Event Card 3!
+Property Negombo has been closed for 2 rounds!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=0 | jail=0
+Risk Taker rolled 9
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 23030
+
+Risk Taker moves from Square 36 to Square 5(Colombo_Fort_Railway_Station)
+
+===================
+Round 1 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 23500
+
+Properties : 1
+
+**Conservative Banker
+
+Cash : LKR 16330
+
+Properties : 3
+
+**Risk Taker
+
+Cash : LKR 23030
+
+Properties : 1
+
+**Opportunistic Trader
+
+Cash : LKR 9740
+
+Properties : 4
+
+DEBUG: 1 1 1 1
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=1
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=1
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 3 to Square 8(Wellawatte)
+
+Conservative Banker purchased Wellawatte for LKR 2700
+
+Remaining Balance: LKR 13630
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=0
+Opportunistic Trader rolled 6
+
+Opportunistic Trader moves from Square 7 to Square 13(Maharagama)
+
+Opportunistic Trader purchased Maharagama for LKR 3800
+
+Remaining Balance: LKR 5940
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=1 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 2 to Square 7(National_Event_Card1)
+
+Aggresive Investor drew National Event Card 4!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=1 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 5 to Square 15(Kandy_Railway_Station)
+
+Risk Taker landed on Kandy_Railway_Station
+
+Rent paid : LKR 500
+
+DEBUG: 1 1 1 1
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=1
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=1
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 8 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=0
+Opportunistic Trader rolled 11
+
+Opportunistic Trader moves from Square 13 to Square 24(Katugastota)
+
+Opportunistic Trader purchased Katugastota for LKR 6000
+
+Remaining Balance: LKR 220
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=1 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 7 to Square 15(Kandy_Railway_Station)
+
+Aggresive Investor landed on Kandy_Railway_Station
+
+Rent paid : LKR 250
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=1 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 15 to Square 23(Peradeniya)
+
+Risk Taker purchased Peradeniya for LKR 5800
+
+Remaining Balance: LKR 16730
+
+DEBUG: 1 1 1 1
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=1
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=1
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 13 to Square 23(Peradeniya)
+
+Conservative Banker landed on Peradeniya
+
+Rent paid : LKR 480
+
+Owner : Risk Taker
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=0
+Opportunistic Trader rolled 6
+
+Opportunistic Trader moves from Square 24 to Square 30(Go_To_Jail)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=1 | jail=0
+Aggresive Investor rolled 12
+
+Aggresive Investor moves from Square 15 to Square 27(Unawatuna)
+
+Aggresive Investor landed on Unawatuna
+
+Rent paid : LKR 620
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=1 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 23 to Square 30(Go_To_Jail)
+
+DEBUG: 1 1 1 1
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=1
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=1
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 23 to Square 30(Go_To_Jail)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=1
+Opportunistic Trader paid LKR 300 to escape jail
+Opportunistic Trader rolled 5
+
+Opportunistic Trader moves from Square 30 to Square 35(Jaffna_Railway_Station)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=1 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 27 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=1 | jail=1
+Risk Taker paid LKR 300 to escape jail
+Risk Taker rolled 4
+
+Risk Taker moves from Square 30 to Square 34(Trincomalee)
+
+DEBUG: 1 1 1 1
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=1
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=1
+Opportunistic Trader | rank=2 | bankrupt=0 | round=1
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=1
+Conservative Banker paid LKR 300 to escape jail
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 30 to Square 38(BOC)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=1 | jail=0
+Opportunistic Trader rolled 7
+
+Opportunistic Trader passed GO
+Collected LKR 2000
+Current Balance: LKR 2540
+
+Opportunistic Trader moves from Square 35 to Square 2(Community_Development_Fund)
+
+Opportunistic Trader drew National Event Card 5!
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=1 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 24630
+
+Aggresive Investor moves from Square 35 to Square 1(Pettah)
+
+Aggresive Investor purchased Pettah for LKR 1500
+
+Remaining Balance: LKR 23130
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=1 | jail=0
+Risk Taker rolled 6
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 18910
+
+Risk Taker moves from Square 34 to Square 0(GO)
+
+DEBUG: 2 1 2 2
+
+**Round 2
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=1
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=1 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 15320
+
+Conservative Banker moves from Square 38 to Square 8(Wellawatte)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 6
+
+Opportunistic Trader moves from Square 2 to Square 8(Wellawatte)
+
+Opportunistic Trader landed on Wellawatte
+
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 10
+
+Aggresive Investor moves from Square 1 to Square 11(Nugegoda)
+
+Aggresive Investor purchased Nugegoda for LKR 3500
+
+Remaining Balance: LKR 19630
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 0 to Square 9(Mount_Lavinia)
+
+Risk Taker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+===================
+Round 2 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 19630
+
+Properties : 3
+
+**Conservative Banker
+
+Cash : LKR 15520
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 18690
+
+Properties : 2
+
+**Opportunistic Trader
+
+Cash : LKR 2560
+
+Properties : 6
+
+DEBUG: 2 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 8 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 8
+
+Opportunistic Trader moves from Square 8 to Square 16(Negombo)
+
+Opportunistic Trader purchased Negombo for LKR 4500
+
+Remaining Balance: LKR -1660
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 11 to Square 16(Negombo)
+
+Aggresive Investor landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 9 to Square 14(Kottawa)
+
+Risk Taker purchased Kottawa for LKR 4000
+
+Remaining Balance: LKR 14690
+
+DEBUG: 2 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 13 to Square 23(Peradeniya)
+
+Conservative Banker landed on Peradeniya
+
+Rent paid : LKR 480
+
+Owner : Risk Taker
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 2
+
+Opportunistic Trader moves from Square 16 to Square 18(Katunayake)
+
+Opportunistic Trader purchased Katunayake for LKR 4700
+
+Remaining Balance: LKR -6010
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 9
+
+Aggresive Investor moves from Square 16 to Square 25(Galle_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 14 to Square 21(Kandy_City)
+
+Risk Taker purchased Kandy_City for LKR 5500
+
+Remaining Balance: LKR 9670
+
+DEBUG: 2 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 2
+
+Conservative Banker moves from Square 23 to Square 25(Galle_Railway_Station)
+
+Conservative Banker purchased Galle_Railway_Station for LKR 1500
+
+Remaining Balance: LKR 13260
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 7
+
+Opportunistic Trader moves from Square 18 to Square 25(Galle_Railway_Station)
+
+Opportunistic Trader landed on Galle_Railway_Station
+
+Rent paid : LKR 500
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 7
+
+Aggresive Investor moves from Square 25 to Square 32(Nallur)
+
+Aggresive Investor purchased Nallur for LKR 8300
+
+Remaining Balance: LKR 10980
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 21 to Square 31(Jaffna_Town)
+
+Risk Taker landed on Jaffna_Town
+
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+DEBUG: 2 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 2
+
+Conservative Banker moves from Square 25 to Square 27(Unawatuna)
+
+Conservative Banker landed on Unawatuna
+
+Rent paid : LKR 620
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 8
+
+Opportunistic Trader moves from Square 25 to Square 33(Ceylinco_Insurance)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 32 to Square 38(BOC)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 31 to Square 36(National_Event_Card3)
+
+Risk Taker drew National Event Card 6!
+DEBUG: 2 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=2
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 27 to Square 30(Go_To_Jail)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 6
+
+Opportunistic Trader moves from Square 33 to Square 39(Galle_Face)
+
+Opportunistic Trader purchased Galle_Face for LKR 12000
+
+Remaining Balance: LKR -17890
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=2 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 13730
+
+Aggresive Investor moves from Square 38 to Square 6(Bambalapitiya)
+
+Aggresive Investor landed on Bambalapitiya
+
+Rent paid : LKR 250
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 36 to Square 38(BOC)
+
+Risk Taker took a loan of LKR 8437.
+
+DEBUG: 3 2 2 2
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=2
+Opportunistic Trader | rank=2 | bankrupt=0 | round=2
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=1
+Conservative Banker paid LKR 300 to escape jail
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 30 to Square 39(Galle_Face)
+
+Conservative Banker landed on Galle_Face
+
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=2 | jail=0
+Opportunistic Trader rolled 11
+
+Opportunistic Trader passed GO
+Collected LKR 2000
+Current Balance: LKR -14690
+
+Opportunistic Trader moves from Square 39 to Square 10(Jail_visiting)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 6 to Square 14(Kottawa)
+
+Aggresive Investor purchased Kottawa for LKR 4000
+
+Remaining Balance: LKR 9480
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=2 | jail=0
+Risk Taker rolled 10
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 19357
+
+Risk Taker moves from Square 38 to Square 8(Wellawatte)
+
+Risk Taker landed on Wellawatte
+
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+DEBUG: 3 2 3 3
+
+**Round 3
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=2
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=0 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=2 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 14090
+
+Conservative Banker moves from Square 39 to Square 3(Maradana)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=3 | jail=0
+Opportunistic Trader rolled 6
+
+Opportunistic Trader moves from Square 10 to Square 16(Negombo)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 3
+
+Aggresive Investor moves from Square 14 to Square 17(Sri_Lanka_Insurance)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 8 to Square 13(Maharagama)
+
+Risk Taker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+===================
+Round 3 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 9480
+
+Properties : 5
+
+**Conservative Banker
+
+Cash : LKR 14090
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 18877
+
+Properties : 4
+
+**Opportunistic Trader
+
+Cash : LKR -14410
+
+Properties : 9
+
+DEBUG: 3 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=0 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 3 to Square 10(Jail_visiting)
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=3 | jail=0
+Opportunistic Trader rolled 11
+
+Opportunistic Trader moves from Square 16 to Square 27(Unawatuna)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 17 to Square 23(Peradeniya)
+
+Aggresive Investor landed on Peradeniya
+
+Rent paid : LKR 480
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 3
+
+Risk Taker moves from Square 13 to Square 16(Negombo)
+
+Risk Taker landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+DEBUG: 3 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=0 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 10 to Square 18(Katunayake)
+
+Conservative Banker landed on Katunayake
+
+Rent paid : LKR 370
+
+Owner : Opportunistic Trader
+
+
+Opportunistic Trader's turn
+------------
+DEBUG PLAYER: Opportunistic Trader | round=3 | jail=0
+Opportunistic Trader rolled 10
+
+Opportunistic Trader moves from Square 27 to Square 37(Nuwara_Eliya)
+
+Opportunistic Trader landed on Nuwara_Eliya
+
+Rent paid : LKR 1000
+
+Owner : Conservative Banker
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 23 to Square 31(Jaffna_Town)
+
+Aggresive Investor purchased Jaffna_Town for LKR 8000
+
+Remaining Balance: LKR 1000
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 16 to Square 21(Kandy_City)
+
+DEBUG: 3 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 18 to Square 23(Peradeniya)
+
+Conservative Banker landed on Peradeniya
+
+Rent paid : LKR 480
+
+Owner : Risk Taker
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 7
+
+Aggresive Investor moves from Square 31 to Square 38(BOC)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 21 to Square 29(Hikkaduwa)
+
+Risk Taker purchased Hikkaduwa for LKR 7000
+
+Remaining Balance: LKR 12487
+
+DEBUG: 3 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=3
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 23 to Square 29(Hikkaduwa)
+
+Conservative Banker landed on Hikkaduwa
+
+Rent paid : LKR 650
+
+Owner : Risk Taker
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=3 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 3000
+
+Aggresive Investor moves from Square 38 to Square 4(Income_Tax)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 29 to Square 31(Jaffna_Town)
+
+Risk Taker landed on Jaffna_Town
+
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+DEBUG: 4 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 29 to Square 34(Trincomalee)
+
+Conservative Banker landed on Trincomalee
+
+Rent paid : LKR 800
+
+Owner : Risk Taker
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 2
+
+Aggresive Investor moves from Square 4 to Square 6(Bambalapitiya)
+
+Aggresive Investor landed on Bambalapitiya
+
+Rent paid : LKR 250
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 31 to Square 35(Jaffna_Railway_Station)
+
+DEBUG: 4 3 3 3
+
+**Round 4
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=3
+Risk Taker | rank=4 | bankrupt=0 | round=3
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=3 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 15040
+
+Conservative Banker moves from Square 34 to Square 2(Community_Development_Fund)
+
+Conservative Banker drew National Event Card 7!
+Loan interest rate reduced by 2%!
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 6 to Square 12(CEB)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=3 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 15187
+
+Risk Taker moves from Square 35 to Square 3(Maradana)
+
+Risk Taker landed on Maradana
+
+Rent paid : LKR 120
+
+Owner : Conservative Banker
+
+===================
+Round 4 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 3500
+
+Properties : 6
+
+**Conservative Banker
+
+Cash : LKR 15160
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 15067
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -14690
+
+Properties : 9
+
+DEBUG: 4 4 4 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=4
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 2 to Square 12(CEB)
+
+Conservative Banker purchased CEB for LKR 0
+
+Remaining Balance: LKR 15160
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 3
+
+Aggresive Investor moves from Square 12 to Square 15(Kandy_Railway_Station)
+
+Aggresive Investor landed on Kandy_Railway_Station
+
+Rent paid : LKR 500
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=4 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 3 to Square 13(Maharagama)
+
+Risk Taker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+DEBUG: 4 4 4 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=4
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 12 to Square 19(Ja_Ea)
+
+Conservative Banker landed on Ja_Ea
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 15 to Square 20(Free_Parking)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=4 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 13 to Square 20(Free_Parking)
+
+DEBUG: 4 4 4 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=4
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 19 to Square 25(Galle_Railway_Station)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 20 to Square 25(Galle_Railway_Station)
+
+Aggresive Investor landed on Galle_Railway_Station
+
+Rent paid : LKR 500
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=4 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 20 to Square 31(Jaffna_Town)
+
+Risk Taker landed on Jaffna_Town
+
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+DEBUG: 4 4 4 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=4
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 25 to Square 31(Jaffna_Town)
+
+Conservative Banker landed on Jaffna_Town
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 4
+
+Aggresive Investor moves from Square 25 to Square 29(Hikkaduwa)
+
+Aggresive Investor landed on Hikkaduwa
+
+Rent paid : LKR 650
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=4 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 31 to Square 33(Ceylinco_Insurance)
+
+DEBUG: 4 4 4 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=4
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 31 to Square 37(Nuwara_Eliya)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 29 to Square 37(Nuwara_Eliya)
+
+Aggresive Investor landed on Nuwara_Eliya
+
+Rent paid : LKR 1000
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=4 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 16687
+
+Risk Taker moves from Square 33 to Square 1(Pettah)
+
+Risk Taker landed on Pettah
+
+Rent paid : LKR 100
+
+Owner : Aggresive Investor
+
+DEBUG: 4 4 5 3
+
+**Round 5
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=4
+Conservative Banker | rank=1 | bankrupt=0 | round=4
+Risk Taker | rank=4 | bankrupt=0 | round=5
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=4 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 18010
+
+Conservative Banker moves from Square 37 to Square 0(GO)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=4 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 4450
+
+Aggresive Investor moves from Square 37 to Square 3(Maradana)
+
+Aggresive Investor purchased Maradana for LKR 1800
+
+Remaining Balance: LKR 2650
+
+Aggresive Investor built a house on Pettah (Houses: 1)
+Aggresive Investor built a house on Maradana (Houses: 1)
+Aggresive Investor built a house on Pettah (Houses: 2)
+Aggresive Investor built a house on Maradana (Houses: 2)
+Aggresive Investor built a house on Pettah (Houses: 3)
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=5 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 1 to Square 11(Nugegoda)
+
+Risk Taker landed on Nugegoda
+
+Rent paid : LKR 260
+
+Owner : Aggresive Investor
+
+===================
+Round 5 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 410
+
+Properties : 7
+
+**Conservative Banker
+
+Cash : LKR 18010
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 16327
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -14010
+
+Properties : 9
+
+DEBUG: 5 5 5 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=5
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 0 to Square 6(Bambalapitiya)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 3 to Square 8(Wellawatte)
+
+Aggresive Investor landed on Wellawatte
+
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=5 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 11 to Square 19(Ja_Ea)
+
+Risk Taker landed on Ja_Ea
+
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+DEBUG: 5 5 5 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=5
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 6 to Square 14(Kottawa)
+
+Conservative Banker landed on Kottawa
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 300
+
+Owner : Aggresive Investor
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 4
+
+Aggresive Investor moves from Square 8 to Square 12(CEB)
+
+Aggresive Investor landed on CEB
+
+Rent paid : LKR 16
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=5 | jail=0
+Risk Taker rolled 12
+
+Risk Taker moves from Square 19 to Square 31(Jaffna_Town)
+
+Risk Taker landed on Jaffna_Town
+
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+DEBUG: 5 5 5 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=5
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 14 to Square 24(Katugastota)
+
+Conservative Banker landed on Katugastota
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 6
+
+Aggresive Investor moves from Square 12 to Square 18(Katunayake)
+
+Aggresive Investor landed on Katunayake
+
+Rent paid : LKR 370
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=5 | jail=0
+Risk Taker rolled 12
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 17177
+
+Risk Taker moves from Square 31 to Square 3(Maradana)
+
+Risk Taker landed on Maradana
+
+Rent paid : LKR 360
+
+Owner : Aggresive Investor
+
+DEBUG: 5 5 6 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=6
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 24 to Square 31(Jaffna_Town)
+
+Conservative Banker landed on Jaffna_Town
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 5
+
+Aggresive Investor moves from Square 18 to Square 23(Peradeniya)
+
+Aggresive Investor landed on Peradeniya
+
+Rent paid : LKR 480
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=6 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 3 to Square 9(Mount_Lavinia)
+
+Risk Taker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+DEBUG: 5 5 6 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=6
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 31 to Square 38(BOC)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 10
+
+Aggresive Investor moves from Square 23 to Square 33(Ceylinco_Insurance)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=6 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 9 to Square 16(Negombo)
+
+Risk Taker landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+DEBUG: 5 5 6 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=5
+Risk Taker | rank=4 | bankrupt=0 | round=6
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=5 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 18676
+
+Conservative Banker moves from Square 38 to Square 5(Colombo_Fort_Railway_Station)
+
+Conservative Banker purchased Colombo_Fort_Railway_Station for LKR 1500
+
+Remaining Balance: LKR 17176
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 4
+
+Aggresive Investor moves from Square 33 to Square 37(Nuwara_Eliya)
+
+Aggresive Investor landed on Nuwara_Eliya
+
+Rent paid : LKR 1000
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=6 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 16 to Square 27(Unawatuna)
+
+Risk Taker landed on Unawatuna
+
+Rent paid : LKR 620
+
+Owner : Opportunistic Trader
+
+DEBUG: 5 6 6 3
+
+**Round 6
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=5
+Conservative Banker | rank=1 | bankrupt=0 | round=6
+Risk Taker | rank=4 | bankrupt=0 | round=6
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=6 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 5 to Square 8(Wellawatte)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=5 | jail=0
+Aggresive Investor rolled 4
+
+Aggresive Investor passed GO
+Collected LKR 2000
+Current Balance: LKR 2504
+
+Aggresive Investor moves from Square 37 to Square 1(Pettah)
+
+Aggresive Investor purchased Pettah for LKR 1500
+
+Remaining Balance: LKR 1004
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=6 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 27 to Square 35(Jaffna_Railway_Station)
+
+===================
+Round 6 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 1004
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 18176
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 16107
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -11550
+
+Properties : 9
+
+DEBUG: 6 6 6 3
+
+**Round 7
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=6
+Risk Taker | rank=4 | bankrupt=0 | round=6
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=6 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 8 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=6 | jail=0
+Aggresive Investor rolled 7
+
+Aggresive Investor moves from Square 1 to Square 8(Wellawatte)
+
+Aggresive Investor landed on Wellawatte
+
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=6 | jail=0
+Risk Taker rolled 12
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 18107
+
+Risk Taker moves from Square 35 to Square 7(National_Event_Card1)
+
+Risk Taker drew National Event Card 8!
+Loan interest rate increased by 2%!
+DEBUG: 6 6 7 3
+
+**Round 7
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=6
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=6 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker moves from Square 13 to Square 24(Katugastota)
+
+Conservative Banker landed on Katugastota
+
+Loan interest rate reduced by 2%!
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=6 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 8 to Square 16(Negombo)
+
+Aggresive Investor landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 7 to Square 12(CEB)
+
+Risk Taker landed on CEB
+
+Loan interest rate increased by 2%!
+Rent paid : LKR 20
+
+DEBUG: 6 6 7 3
+
+**Round 7
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=0 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=6
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=6 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 24 to Square 33(Ceylinco_Insurance)
+
+
+Aggresive Investor's turn
+------------
+DEBUG PLAYER: Aggresive Investor | round=6 | jail=0
+Aggresive Investor rolled 8
+
+Aggresive Investor moves from Square 16 to Square 24(Katugastota)
+
+Aggresive Investor landed on Katugastota
+
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 12 to Square 17(Sri_Lanka_Insurance)
+
+DEBUG: 6 6 7 3
+
+**Round 7
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=6
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=6 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 19616
+
+Conservative Banker moves from Square 33 to Square 0(GO)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 17 to Square 19(Ja_Ea)
+
+Risk Taker landed on Ja_Ea
+
+Loan interest rate increased by 2%!
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+===================
+Round 7 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR -46
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 19616
+
+Properties : 4
+
+**Risk Taker
+
+Cash : LKR 17687
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -9520
+
+Properties : 9
+
+DEBUG: 6 7 7 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 0 to Square 7(National_Event_Card1)
+
+Conservative Banker drew National Event Card 9!
+Each player receives LKR 2000!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 19 to Square 24(Katugastota)
+
+Risk Taker landed on Katugastota
+
+Loan interest rate increased by 2%!
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 7 7 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 7 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Each player receives LKR 2000!
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 24 to Square 32(Nallur)
+
+Risk Taker landed on Nallur
+
+Loan interest rate increased by 2%!
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+DEBUG: 6 7 7 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=7
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 13 to Square 16(Negombo)
+
+Conservative Banker landed on Negombo
+
+Each player receives LKR 2000!
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=7 | jail=0
+Risk Taker rolled 10
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 24407
+
+Risk Taker moves from Square 32 to Square 2(Community_Development_Fund)
+
+Risk Taker drew National Event Card 10!
+DEBUG: 6 7 8 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=8
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 16 to Square 26(Galle_Fort)
+
+Conservative Banker purchased Galle_Fort for LKR 6500
+
+Remaining Balance: LKR 18486
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=8 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 2 to Square 10(Jail_visiting)
+
+DEBUG: 6 7 8 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=8
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 26 to Square 33(Ceylinco_Insurance)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=8 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 10 to Square 20(Free_Parking)
+
+DEBUG: 6 7 8 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=8
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 33 to Square 39(Galle_Face)
+
+Conservative Banker landed on Galle_Face
+
+Each player receives LKR 2000!
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=8 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 20 to Square 25(Galle_Railway_Station)
+
+Risk Taker landed on Galle_Railway_Station
+
+Utility income is halved for 3 rounds!
+Rent paid : LKR 500
+
+DEBUG: 6 7 8 3
+
+**Round 8
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=7
+Risk Taker | rank=4 | bankrupt=0 | round=8
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=7 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 21786
+
+Conservative Banker moves from Square 39 to Square 9(Mount_Lavinia)
+
+Conservative Banker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=8 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 25 to Square 34(Trincomalee)
+
+===================
+Round 8 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 734
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 21566
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 25907
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -6970
+
+Properties : 9
+
+DEBUG: 6 8 8 3
+
+**Round 9
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=8
+Risk Taker | rank=4 | bankrupt=0 | round=8
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=8 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 9 to Square 17(Sri_Lanka_Insurance)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=8 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 27907
+
+Risk Taker moves from Square 34 to Square 2(Community_Development_Fund)
+
+Risk Taker drew National Event Card 11!
+DEBUG: 6 8 9 3
+
+**Round 9
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=8
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=8 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 17 to Square 24(Katugastota)
+
+Conservative Banker landed on Katugastota
+
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 2 to Square 4(Income_Tax)
+
+DEBUG: 6 8 9 3
+
+**Round 9
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=8
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=8 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 24 to Square 32(Nallur)
+
+Conservative Banker landed on Nallur
+
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 4 to Square 11(Nugegoda)
+
+Risk Taker landed on Nugegoda
+
+Rent paid : LKR 260
+
+Owner : Aggresive Investor
+
+DEBUG: 6 8 9 3
+
+**Round 9
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=8
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=8 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 32 to Square 38(BOC)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 11 to Square 20(Free_Parking)
+
+DEBUG: 6 8 9 3
+
+**Round 9
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=8
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=8 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 22286
+
+Conservative Banker moves from Square 38 to Square 5(Colombo_Fort_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 20 to Square 28(National_Water_Supply_and_Drainage_Board)
+
+===================
+Round 9 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 1774
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 22286
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 27647
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -6470
+
+Properties : 9
+
+DEBUG: 6 9 9 3
+
+**Round 10
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=9
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=9 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 5 to Square 8(Wellawatte)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 28 to Square 34(Trincomalee)
+
+DEBUG: 6 9 9 3
+
+**Round 10
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=9
+Risk Taker | rank=4 | bankrupt=0 | round=9
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=9 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker moves from Square 8 to Square 19(Ja_Ea)
+
+Conservative Banker landed on Ja_Ea
+
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=9 | jail=0
+Risk Taker rolled 7
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 29647
+
+Risk Taker moves from Square 34 to Square 1(Pettah)
+
+Risk Taker landed on Pettah
+
+Rent paid : LKR 400
+
+Owner : Aggresive Investor
+
+DEBUG: 6 9 10 3
+
+**Round 10
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=9
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=9 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 19 to Square 25(Galle_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 1 to Square 8(Wellawatte)
+
+Risk Taker landed on Wellawatte
+
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+DEBUG: 6 9 10 3
+
+**Round 10
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=9
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=9 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 25 to Square 35(Jaffna_Railway_Station)
+
+Conservative Banker purchased Jaffna_Railway_Station for LKR 0
+
+Remaining Balance: LKR 22086
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 8 to Square 15(Kandy_Railway_Station)
+
+Risk Taker landed on Kandy_Railway_Station
+
+Rent paid : LKR 2000
+
+DEBUG: 6 9 10 3
+
+**Round 10
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=9
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=9 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 26086
+
+Conservative Banker moves from Square 35 to Square 4(Income_Tax)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 15 to Square 21(Kandy_City)
+
+===================
+Round 10 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 2174
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 26086
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 27047
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -6070
+
+Properties : 9
+
+DEBUG: 6 10 10 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker moves from Square 4 to Square 8(Wellawatte)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 3
+
+Risk Taker moves from Square 21 to Square 24(Katugastota)
+
+Risk Taker landed on Katugastota
+
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 10 10 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker moves from Square 8 to Square 19(Ja_Ea)
+
+Conservative Banker landed on Ja_Ea
+
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 24 to Square 34(Trincomalee)
+
+DEBUG: 6 10 10 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=10
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 19 to Square 26(Galle_Fort)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=10 | jail=0
+Risk Taker rolled 9
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 28547
+
+Risk Taker moves from Square 34 to Square 3(Maradana)
+
+Risk Taker landed on Maradana
+
+Rent paid : LKR 360
+
+Owner : Aggresive Investor
+
+DEBUG: 6 10 11 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 26 to Square 29(Hikkaduwa)
+
+Conservative Banker landed on Hikkaduwa
+
+Rent paid : LKR 650
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 3 to Square 9(Mount_Lavinia)
+
+Risk Taker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 10 11 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 29 to Square 39(Galle_Face)
+
+Conservative Banker landed on Galle_Face
+
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 9 to Square 17(Sri_Lanka_Insurance)
+
+DEBUG: 6 10 11 3
+
+**Round 11
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=10
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=10 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 25836
+
+Conservative Banker moves from Square 39 to Square 7(National_Event_Card1)
+
+Conservative Banker drew National Event Card 12!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 17 to Square 23(Peradeniya)
+
+===================
+Round 11 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 2534
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 25836
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 28617
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -3750
+
+Properties : 9
+
+DEBUG: 6 11 11 3
+
+**Round 12
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=11
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=11 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 7 to Square 14(Kottawa)
+
+Conservative Banker landed on Kottawa
+
+Rent paid : LKR 300
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 23 to Square 27(Unawatuna)
+
+Risk Taker landed on Unawatuna
+
+Rent paid : LKR 620
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 11 11 3
+
+**Round 12
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=11
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=11 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 14 to Square 21(Kandy_City)
+
+Conservative Banker landed on Kandy_City
+
+Rent paid : LKR 450
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 27 to Square 33(Ceylinco_Insurance)
+
+DEBUG: 6 11 11 3
+
+**Round 12
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=11
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=11 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker moves from Square 21 to Square 25(Galle_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 33 to Square 38(BOC)
+
+DEBUG: 6 11 11 3
+
+**Round 12
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=11
+Risk Taker | rank=4 | bankrupt=0 | round=11
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=11 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 25 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=11 | jail=0
+Risk Taker rolled 7
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 30447
+
+Risk Taker moves from Square 38 to Square 5(Colombo_Fort_Railway_Station)
+
+Risk Taker landed on Colombo_Fort_Railway_Station
+
+Rent paid : LKR 2000
+
+DEBUG: 6 11 12 3
+
+**Round 12
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=11
+Risk Taker | rank=4 | bankrupt=0 | round=12
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=11 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 29086
+
+Conservative Banker moves from Square 35 to Square 4(Income_Tax)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=12 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 5 to Square 12(CEB)
+
+Risk Taker landed on CEB
+
+Rent paid : LKR 28
+
+===================
+Round 12 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 2834
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 29114
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 28419
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -3130
+
+Properties : 9
+
+DEBUG: 6 12 12 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=12
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 4 to Square 10(Jail_visiting)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=12 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 12 to Square 21(Kandy_City)
+
+DEBUG: 6 12 12 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=12
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 10 to Square 20(Free_Parking)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=12 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 21 to Square 28(National_Water_Supply_and_Drainage_Board)
+
+DEBUG: 6 12 12 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=12
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 20 to Square 26(Galle_Fort)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=12 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 28 to Square 39(Galle_Face)
+
+Risk Taker landed on Galle_Face
+
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 12 12 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=12
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 26 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=12 | jail=0
+Risk Taker rolled 6
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 29219
+
+Risk Taker moves from Square 39 to Square 5(Colombo_Fort_Railway_Station)
+
+Risk Taker landed on Colombo_Fort_Railway_Station
+
+Rent paid : LKR 2000
+
+DEBUG: 6 12 13 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=13
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker moves from Square 35 to Square 39(Galle_Face)
+
+Conservative Banker landed on Galle_Face
+
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=13 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 5 to Square 15(Kandy_Railway_Station)
+
+Risk Taker landed on Kandy_Railway_Station
+
+Rent paid : LKR 2000
+
+DEBUG: 6 12 13 3
+
+**Round 13
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=12
+Risk Taker | rank=4 | bankrupt=0 | round=13
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=12 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 33914
+
+Conservative Banker moves from Square 39 to Square 8(Wellawatte)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=13 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 15 to Square 21(Kandy_City)
+
+===================
+Round 13 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 2834
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 33914
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 25219
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -730
+
+Properties : 9
+
+DEBUG: 6 13 13 3
+
+**Round 14
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=13
+Risk Taker | rank=4 | bankrupt=0 | round=13
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=13 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 8 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=13 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 21 to Square 32(Nallur)
+
+Risk Taker landed on Nallur
+
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+DEBUG: 6 13 13 3
+
+**Round 14
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=13
+Risk Taker | rank=4 | bankrupt=0 | round=13
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=13 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 13 to Square 21(Kandy_City)
+
+Conservative Banker landed on Kandy_City
+
+Rent paid : LKR 450
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=13 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 32 to Square 36(National_Event_Card3)
+
+Risk Taker drew National Event Card 13!
+DEBUG: 6 13 13 3
+
+**Round 14
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=13
+Risk Taker | rank=4 | bankrupt=0 | round=13
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=13 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker moves from Square 21 to Square 32(Nallur)
+
+Conservative Banker landed on Nallur
+
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=13 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 26889
+
+Risk Taker moves from Square 36 to Square 4(Income_Tax)
+
+DEBUG: 6 13 14 3
+
+**Round 14
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=13
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=13 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 34404
+
+Conservative Banker moves from Square 32 to Square 3(Maradana)
+
+Conservative Banker landed on Maradana
+
+Rent paid : LKR 360
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 4 to Square 8(Wellawatte)
+
+Risk Taker landed on Wellawatte
+
+Hotels receive 50% additional rent!
+Rent paid : LKR 200
+
+Owner : Conservative Banker
+
+===================
+Round 14 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 4754
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 34244
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 26689
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR -450
+
+Properties : 9
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 3 to Square 12(CEB)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 8 to Square 12(CEB)
+
+Risk Taker landed on CEB
+
+Hotels receive 50% additional rent!
+Rent paid : LKR 16
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker moves from Square 12 to Square 16(Negombo)
+
+Conservative Banker landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 12 to Square 17(Sri_Lanka_Insurance)
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 16 to Square 22(National_Event_Card2)
+
+Conservative Banker drew National Event Card 14!
+Construction is suspended for 2 rounds!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 3
+
+Risk Taker moves from Square 17 to Square 20(Free_Parking)
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 22 to Square 32(Nallur)
+
+Conservative Banker landed on Nallur
+
+Construction is suspended for 2 rounds!
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 20 to Square 29(Hikkaduwa)
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 32 to Square 38(BOC)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 5
+
+Risk Taker moves from Square 29 to Square 34(Trincomalee)
+
+DEBUG: 6 14 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=14
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=14 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 35130
+
+Conservative Banker moves from Square 38 to Square 7(National_Event_Card1)
+
+Conservative Banker drew National Event Card 15!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 2
+
+Risk Taker moves from Square 34 to Square 36(National_Event_Card3)
+
+Risk Taker drew National Event Card 16!
+DEBUG: 6 15 14 3
+
+**Round 15
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=15
+Risk Taker | rank=4 | bankrupt=0 | round=14
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=15 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 7 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Insurance premium reduced by 20%!
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=14 | jail=0
+Risk Taker rolled 7
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 28673
+
+Risk Taker moves from Square 36 to Square 3(Maradana)
+
+Risk Taker landed on Maradana
+
+Rent paid : LKR 360
+
+Owner : Aggresive Investor
+
+Regional Card: Southern Tourism Boom
+===================
+Round 15 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 5894
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 34850
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 28313
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 180
+
+Properties : 9
+
+DEBUG: 6 15 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=15
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=15 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 13 to Square 22(National_Event_Card2)
+
+Conservative Banker drew National Event Card 17!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 3 to Square 7(National_Event_Card1)
+
+Risk Taker drew National Event Card 18!
+Risk Taker receives LKR 5000!
+DEBUG: 6 15 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=15
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=15 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 22 to Square 29(Hikkaduwa)
+
+Conservative Banker landed on Hikkaduwa
+
+Rent paid : LKR 909
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 7 to Square 11(Nugegoda)
+
+Risk Taker landed on Nugegoda
+
+Conservative Banker receives LKR 5000!
+Rent paid : LKR 260
+
+Owner : Aggresive Investor
+
+DEBUG: 6 15 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=15
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=15 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 29 to Square 34(Trincomalee)
+
+Conservative Banker landed on Trincomalee
+
+Rent paid : LKR 800
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 11 to Square 18(Katunayake)
+
+Risk Taker landed on Katunayake
+
+Risk Taker receives LKR 5000!
+Rent paid : LKR 370
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 15 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=15
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=15 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 40141
+
+Conservative Banker moves from Square 34 to Square 5(Colombo_Fort_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 18 to Square 22(National_Event_Card2)
+
+Risk Taker drew National Event Card 19!
+Developed property Pettah has been damaged!
+DEBUG: 6 16 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=16
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=16 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker moves from Square 5 to Square 15(Kandy_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 22 to Square 29(Hikkaduwa)
+
+DEBUG: 6 16 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=16
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=16 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 15 to Square 21(Kandy_City)
+
+Conservative Banker landed on Kandy_City
+
+Rent paid : LKR 450
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 29 to Square 39(Galle_Face)
+
+Risk Taker landed on Galle_Face
+
+Developed property Maradana has been damaged!
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 16 15 3
+
+**Round 16
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=16
+Risk Taker | rank=4 | bankrupt=0 | round=15
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=16 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 21 to Square 29(Hikkaduwa)
+
+Conservative Banker landed on Hikkaduwa
+
+Rent paid : LKR 909
+
+Owner : Risk Taker
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=15 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 41551
+
+Risk Taker moves from Square 39 to Square 7(National_Event_Card1)
+
+Risk Taker drew National Event Card 0!
+===================
+Round 16 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 6154
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 38782
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 41551
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 1750
+
+Properties : 9
+
+DEBUG: 6 16 16 3
+
+**Round 17
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=16
+Risk Taker | rank=4 | bankrupt=0 | round=16
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=16 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 29 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=16 | jail=0
+Risk Taker rolled 12
+
+Risk Taker moves from Square 7 to Square 19(Ja_Ea)
+
+Risk Taker landed on Ja_Ea
+
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 16 16 3
+
+**Round 17
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=16
+Risk Taker | rank=4 | bankrupt=0 | round=16
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=16 | jail=0
+Conservative Banker rolled 10
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 40782
+
+Conservative Banker moves from Square 35 to Square 5(Colombo_Fort_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=16 | jail=0
+Risk Taker rolled 3
+
+Risk Taker moves from Square 19 to Square 22(National_Event_Card2)
+
+Risk Taker drew National Event Card 1!
+DEBUG: 6 17 16 3
+
+**Round 17
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=16
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 5 to Square 14(Kottawa)
+
+Conservative Banker landed on Kottawa
+
+Rent paid : LKR 300
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=16 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 22 to Square 33(Ceylinco_Insurance)
+
+DEBUG: 6 17 16 3
+
+**Round 17
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=16
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 14 to Square 20(Free_Parking)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=16 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 33 to Square 39(Galle_Face)
+
+Risk Taker landed on Galle_Face
+
+Rent paid : LKR 1200
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 17 16 3
+
+**Round 17
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=16
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 20 to Square 28(National_Water_Supply_and_Drainage_Board)
+
+Conservative Banker purchased National_Water_Supply_and_Drainage_Board for LKR 0
+
+Remaining Balance: LKR 40482
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=16 | jail=0
+Risk Taker rolled 7
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 41951
+
+Risk Taker moves from Square 39 to Square 6(Bambalapitiya)
+
+Risk Taker landed on Bambalapitiya
+
+Rent paid : LKR 250
+
+Owner : Conservative Banker
+
+===================
+Round 17 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 6454
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 40732
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 41701
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 3350
+
+Properties : 9
+
+DEBUG: 6 17 17 3
+
+**Round 18
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=17
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 28 to Square 36(National_Event_Card3)
+
+Conservative Banker drew National Event Card 2!
+Coastal property Hikkaduwa has been damaged!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=17 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 6 to Square 14(Kottawa)
+
+Risk Taker landed on Kottawa
+
+Rent paid : LKR 300
+
+Owner : Aggresive Investor
+
+DEBUG: 6 17 17 3
+
+**Round 18
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=17
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 2
+
+Conservative Banker moves from Square 36 to Square 38(BOC)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=17 | jail=0
+Risk Taker rolled 10
+
+Risk Taker moves from Square 14 to Square 24(Katugastota)
+
+Risk Taker landed on Katugastota
+
+Rent paid : LKR 500
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 17 17 3
+
+**Round 18
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=17
+Risk Taker | rank=4 | bankrupt=0 | round=17
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=17 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 42732
+
+Conservative Banker moves from Square 38 to Square 5(Colombo_Fort_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=17 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 24 to Square 30(Go_To_Jail)
+
+DEBUG: 6 18 17 3
+
+**Round 18
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=18
+Risk Taker | rank=4 | bankrupt=0 | round=17
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=18 | jail=0
+Conservative Banker rolled 9
+
+Conservative Banker moves from Square 5 to Square 14(Kottawa)
+
+Conservative Banker landed on Kottawa
+
+Rent paid : LKR 300
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=17 | jail=1
+Risk Taker paid LKR 300 to escape jail
+Risk Taker rolled 7
+
+Risk Taker moves from Square 30 to Square 37(Nuwara_Eliya)
+
+Risk Taker landed on Nuwara_Eliya
+
+Rent paid : LKR 1000
+
+Owner : Conservative Banker
+
+DEBUG: 6 18 17 3
+
+**Round 18
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=18
+Risk Taker | rank=4 | bankrupt=0 | round=17
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=18 | jail=0
+Conservative Banker rolled 6
+
+Conservative Banker moves from Square 14 to Square 20(Free_Parking)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=17 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 41601
+
+Risk Taker moves from Square 37 to Square 5(Colombo_Fort_Railway_Station)
+
+Risk Taker landed on Colombo_Fort_Railway_Station
+
+Rent paid : LKR 4000
+
+===================
+Round 18 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 7054
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 47432
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 37601
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 3850
+
+Properties : 9
+
+DEBUG: 6 18 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=18
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=18 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker moves from Square 20 to Square 31(Jaffna_Town)
+
+Conservative Banker landed on Jaffna_Town
+
+Rent paid : LKR 750
+
+Owner : Aggresive Investor
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 5 to Square 9(Mount_Lavinia)
+
+Risk Taker landed on Mount_Lavinia
+
+Rent paid : LKR 220
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 18 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=18
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=18 | jail=0
+Conservative Banker rolled 4
+
+Conservative Banker moves from Square 31 to Square 35(Jaffna_Railway_Station)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 9 to Square 16(Negombo)
+
+Risk Taker landed on Negombo
+
+Rent paid : LKR 350
+
+Owner : Opportunistic Trader
+
+DEBUG: 6 18 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=18
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=18 | jail=0
+Conservative Banker rolled 12
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 48682
+
+Conservative Banker moves from Square 35 to Square 7(National_Event_Card1)
+
+Conservative Banker drew National Event Card 3!
+Property Ja_Ea has been closed for 2 rounds!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 9
+
+Risk Taker moves from Square 16 to Square 25(Galle_Railway_Station)
+
+Risk Taker landed on Galle_Railway_Station
+
+Rent paid : LKR 4000
+
+DEBUG: 6 19 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 7 to Square 12(CEB)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 7
+
+Risk Taker moves from Square 25 to Square 32(Nallur)
+
+Risk Taker landed on Nallur
+
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+DEBUG: 6 19 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=0
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 12 to Square 19(Ja_Ea)
+
+Conservative Banker landed on Ja_Ea
+
+Property Galle_Face has been closed for 2 rounds!
+Rent paid : LKR 400
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 4
+
+Risk Taker moves from Square 32 to Square 36(National_Event_Card3)
+
+Risk Taker drew National Event Card 4!
+DEBUG: 6 19 18 3
+
+**Round 19
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=18
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=0
+Conservative Banker rolled 3
+
+Conservative Banker moves from Square 19 to Square 22(National_Event_Card2)
+
+Conservative Banker drew National Event Card 5!
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=18 | jail=0
+Risk Taker rolled 11
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 34251
+
+Risk Taker moves from Square 36 to Square 7(National_Event_Card1)
+
+Risk Taker drew National Event Card 6!
+===================
+Round 19 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 8584
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 52282
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 34251
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 4820
+
+Properties : 9
+
+DEBUG: 6 19 19 3
+
+**Round 20
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=19
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=0
+Conservative Banker rolled 8
+
+Conservative Banker moves from Square 22 to Square 30(Go_To_Jail)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=19 | jail=0
+Risk Taker rolled 8
+
+Risk Taker moves from Square 7 to Square 15(Kandy_Railway_Station)
+
+Risk Taker landed on Kandy_Railway_Station
+
+Rent paid : LKR 2000
+
+DEBUG: 6 19 19 3
+
+**Round 20
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=19
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=1
+Conservative Banker paid LKR 300 to escape jail
+Conservative Banker rolled 7
+
+Conservative Banker moves from Square 30 to Square 37(Nuwara_Eliya)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=19 | jail=0
+Risk Taker rolled 11
+
+Risk Taker moves from Square 15 to Square 26(Galle_Fort)
+
+Risk Taker landed on Galle_Fort
+
+Rent paid : LKR 840
+
+Owner : Conservative Banker
+
+DEBUG: 6 19 19 3
+
+**Round 20
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=19
+Risk Taker | rank=4 | bankrupt=0 | round=19
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=19 | jail=0
+Conservative Banker rolled 11
+
+Conservative Banker passed GO
+Collected LKR 2000
+Current Balance: LKR 56822
+
+Conservative Banker moves from Square 37 to Square 8(Wellawatte)
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=19 | jail=0
+Risk Taker rolled 6
+
+Risk Taker moves from Square 26 to Square 32(Nallur)
+
+Risk Taker landed on Nallur
+
+Rent paid : LKR 780
+
+Owner : Aggresive Investor
+
+DEBUG: 6 20 19 3
+
+**Round 20
+
+DEBUG STATUS:
+Aggresive Investor | rank=3 | bankrupt=1 | round=6
+Conservative Banker | rank=1 | bankrupt=0 | round=20
+Risk Taker | rank=4 | bankrupt=0 | round=19
+Opportunistic Trader | rank=2 | bankrupt=1 | round=3
+
+Conservative Banker's turn
+------------
+DEBUG PLAYER: Conservative Banker | round=20 | jail=0
+Conservative Banker rolled 5
+
+Conservative Banker moves from Square 8 to Square 13(Maharagama)
+
+Conservative Banker landed on Maharagama
+
+Rent paid : LKR 280
+
+Owner : Opportunistic Trader
+
+
+Risk Taker's turn
+------------
+DEBUG PLAYER: Risk Taker | round=19 | jail=0
+Risk Taker rolled 8
+
+Risk Taker passed GO
+Collected LKR 2000
+Current Balance: LKR 32631
+
+Risk Taker moves from Square 32 to Square 0(GO)
+
+===================
+Round 20 Summary
+===================
+
+**Aggresive Investor
+
+Cash : LKR 9364
+
+Properties : 8
+
+**Conservative Banker
+
+Cash : LKR 56542
+
+Properties : 5
+
+**Risk Taker
+
+Cash : LKR 32631
+
+Properties : 5
+
+**Opportunistic Trader
+
+Cash : LKR 5100
+
+Properties : 9
+
+=======================
+
+*End of Game
+
+=======================
+
+GAME OVER
+
+Winner
+

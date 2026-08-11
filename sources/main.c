@@ -16,7 +16,16 @@ int main(){
       playerinfo(players);//player initialization
       
       order_decide(players);
-      game_play(players);
+
+      initialize_deck();
+      Rcard_details(cards);
+
+      
+      initialize_Ndeck();
+      Ncard_details(Ncards);
+      
+
+      game_play(players,board,cards,Ncards);
       
     
       
